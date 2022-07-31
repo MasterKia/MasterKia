@@ -5,6 +5,6 @@ https://github.com/MasterKia/PersianBlocker
 
 
 * My Persian translations for free software projects:
-1. [PicoCrypt](https://github.com/HACKERALERT/Picocrypt/blob/main/translations/persian.md)
-2. [System Monitoring Center](https://github.com/hakandundar34coding/system-monitoring-center/tree/master/locale/fa/LC_MESSAGES)
-3. [Sidebar Tabs](https://github.com/asamuzaK/sidebarTabs/tree/master/src/_locales/fa)
+1. [PicoCrypt](https://github.com/HACKERALERT/Picocrypt/pull/106)
+2. [System Monitoring Center](https://github.com/hakandundar34coding/system-monitoring-center/pull/110)
+3. [Sidebar Tabs](https://github.com/asamuzaK/sidebarTabs/pull/204)
